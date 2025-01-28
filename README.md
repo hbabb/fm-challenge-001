@@ -28,8 +28,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- **Solution URL**: [Add solution URL here](https://your-solution-url.com)
-- **Live Demo**: [Add live site URL here](https://your-live-site-url.com)
+- **Solution URL**: [GitHub Repo](https://github.com/hbabb/fm-challenge-001)
+- **Live Demo**: [Vercel App](https://fm-challenge-001.vercel.app/)
 
 ---
 
